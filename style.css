@@ -1,0 +1,26 @@
+body {
+  font-family: "Montserrat", Arial, Helvetica, sans-serif;
+  padding: 0px;
+  margin: 0px;
+  font-weight: 100; /*why????*/
+  box-sizing: border-box;
+}
+h1 {
+  text-transform: uppercase;
+}
+header {
+  background-color: #f79f24;
+  height: 150px;
+  width: 100%;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+  color: #ffeed0;
+}
+section {
+  float: left;
+  width: 45%;
+  padding: 20px;
+  font-size: 14px;
+  color: black;
+}
